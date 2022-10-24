@@ -9,7 +9,7 @@ Libs:
 
 Técnicas:
 - Análise Exploratória de dados
-- Data Visualization
-- Standard scale
+- validação cruzada
+- Oversampling (SMOTE)
 - Árvore de decisão
 - AUC (“area under the ROC curve”)
