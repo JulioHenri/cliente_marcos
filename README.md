@@ -6,6 +6,8 @@ Dados epidemiológicos referem-se a dados relacionados a epidemias, onde é anal
 
 Foi feita uma coleta de dados para avaliar dados epidemiológicos e laboratoriais de pacientes mulheres gestantes com malária no Município de Anajás, no Pará. O objetivo do trabalho é apresentar as variáveis qualitativas e quantitativas, relacioná-las da melhor maneira possível, obter insights sobre os dados e por fim, problematizar e aplicar um modelo de Machine Learning para resolver este problema, apresentando o passo a passo da construção do modelo.
 
+Você pode ver o notebook com as análises e o modelo <a href="https://github.com/JulioHenri/cliente_marcos/blob/main/cliente_area_da_saude.ipynb"> aqui 
+
 Libs:
 - Pandas, Numpy
 - Matplotlib, Seaborn
@@ -14,6 +16,7 @@ Libs:
 Técnicas:
 - Análise Exploratória de dados
 - Validação cruzada
+- Dados desbalanceados
 - Oversampling (SMOTE)
 - Árvore de decisão
 - AUC (“area under the ROC curve”)
